@@ -5,4 +5,4 @@ I am writing this game as a lib to enable AI training, API etc. on this good gam
 
 Original game: [https://en.wikipedia.org/wiki/Azul_(board_game)](Azul).
 
-[![codecov](https://codecov.io/gh/EvalVis/Azul/branch/main/graph/badge.svg)](https://codecov.io/gh/EvalVis/Azul)
+[![codecov](https://codecov.io/gh/AzulImplementation/AzulGameEngine/branch/main/graph/badge.svg)](https://codecov.io/gh/AzulImplementation/AzulGameEngine)
