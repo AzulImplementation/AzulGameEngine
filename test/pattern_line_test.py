@@ -1,15 +1,15 @@
 import unittest
 
-from azul.action_not_allowed_exception import ActionNotAllowedException
-from azul.board import Board
-from azul.center import Center
-from azul.factory_display import FactoryDisplay
-from azul.floor import Floor
-from azul.lid import Lid
-from azul.pattern_line import PatternLine
-from azul.player import Player
-from azul.tile import Tile
-from azul.wall import Wall
+from azul_game_engine.action_not_allowed_exception import ActionNotAllowedException
+from azul_game_engine.board import Board
+from azul_game_engine.center import Center
+from azul_game_engine.factory_display import FactoryDisplay
+from azul_game_engine.floor import Floor
+from azul_game_engine.lid import Lid
+from azul_game_engine.pattern_line import PatternLine
+from azul_game_engine.player import Player
+from azul_game_engine.tile import Tile
+from azul_game_engine.wall import Wall
 
 
 class TestPatternLine(unittest.TestCase):

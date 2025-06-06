@@ -1,4 +1,4 @@
-from azul.tile import Tile
+from azul_game_engine.tile import Tile
 
 class Center:
     def __init__(self):

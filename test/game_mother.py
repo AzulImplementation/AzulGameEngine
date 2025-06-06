@@ -1,5 +1,5 @@
-from azul.game import Game
-from azul.center import Center
+from azul_game_engine.game import Game
+from azul_game_engine.center import Center
 from player_mother import PlayerMother
 
 class GameMother:

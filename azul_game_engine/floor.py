@@ -1,4 +1,4 @@
-from azul.lid import Lid
+from azul_game_engine.lid import Lid
 
 class Floor:
     def __init__(self, lid=None):

@@ -1,7 +1,7 @@
-from azul.board import Board
-from azul.floor import Floor
-from azul.wall import Wall
-from azul.player import Player
+from azul_game_engine.board import Board
+from azul_game_engine.floor import Floor
+from azul_game_engine.wall import Wall
+from azul_game_engine.player import Player
 
 class PlayerMother:
     @staticmethod

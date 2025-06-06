@@ -1,10 +1,10 @@
 import random
 
-from azul.action_not_allowed_exception import ActionNotAllowedException
-from azul.center import Center
-from azul.lid import Lid
-from azul.bag import Bag
-from azul.factory_display import FactoryDisplay
+from azul_game_engine.action_not_allowed_exception import ActionNotAllowedException
+from azul_game_engine.center import Center
+from azul_game_engine.lid import Lid
+from azul_game_engine.bag import Bag
+from azul_game_engine.factory_display import FactoryDisplay
 
 class Game:
     def __init__(self, players, center=None, starting_player=None, lid=None):
