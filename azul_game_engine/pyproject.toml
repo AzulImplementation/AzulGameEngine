@@ -1,0 +1,10 @@
+[project]
+name = "azul_game_engine"
+version = "1.0.0"
+description = "Game engine for enabling Azul game being used by API and AI agents"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
