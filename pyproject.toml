@@ -1,6 +1,6 @@
 [project]
 name = "azul_game_engine"
-version = "1.0.0"
+version = "1.0.1"
 authors = [{name = "Evaldas Visockas", email = "developersediary@gmail.com"}]
 description = "Game engine for enabling Azul game being used by API and AI agents"
 readme = "README.md"
