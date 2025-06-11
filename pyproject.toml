@@ -1,8 +1,8 @@
 [project]
 name = "azul_game_engine"
-version = "1.0.1"
+version = "1.0.2"
 authors = [{name = "Evaldas Visockas", email = "developersediary@gmail.com"}]
-description = "Game engine for enabling Azul game being used by API and AI agents"
+description = "A game engine for Azul board game "
 readme = "README.md"
 requires-python = ">=3.12"
 license = {text = "GPL-3.0-or-later"}
